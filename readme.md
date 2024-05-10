@@ -4,4 +4,7 @@
 
 ## 구현 목록
 
-1. [동적 배열](./dynamic_array/main.c)
+1. [Dynamic Array](./dynamic_array/main.c)  
+블로그 정리 - [[자료구조] C로 동적배열 만들기](https://k1a2.github.io/posts/dynamic-array/)  
+2. [Linked List](./linked_list/main.c)  
+블로그 정리 - [[자료구조] C로 LinkedList 만들기](https://k1a2.github.io/posts/linked-list/)  
