@@ -12,3 +12,5 @@
 블로그 정리 - [[자료구조] C로 Stack 만들기](https://k1a2.github.io/posts/stack/)
 4. [Queue](./queue/main.c)  
 블로그 정리 - [[자료구조] C로 Queue 만들기](https://k1a2.github.io/posts/queue/)
+5. [Graph](./graph)  
+블로그 정리 - [[자료구조] C로 Graph 만들기](https://k1a2.github.io/posts/graph/)
